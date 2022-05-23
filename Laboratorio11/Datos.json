@@ -1,0 +1,28 @@
+[
+  {
+    "Nombre": "Mesoamericana",
+    
+    "Sede": null,
+    "Alumnos": [
+      {
+        "Carne": "202108025",
+        "Notas": [
+          {
+            "Curso": "Ingles",
+            "Punteo": 70
+          },
+          {
+            "Curso": "Mate",
+            "Punteo": 75
+          },
+          {
+            "Curso": "Fisica",
+            "Punteo": 80
+          }
+        ],
+        "Nombre": "Pablo ",
+        "Apellido": "Vásquez"
+      }
+    ]
+  }
+]
